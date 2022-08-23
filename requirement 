@@ -1,0 +1,6 @@
+A list of blog posts, gotten from the given endpoint
+An inner page to show the blog content
+Make the UI simple and presentable
+Endpoint for All blog posts: https://wp.newborntoolkit.org/wp-json/nest360/v1/news
+Endpoint for single blog content: 
+​​https://wp.newborntoolkit.org/wp-json/nest360/v1/news/{slug}
