@@ -8,6 +8,8 @@ const HomePage = (props) => {
   const [resData, setResData] = useState(null);
 
   useEffect(() => {
+    console.log('response');
+
     remoteCall();
   }, []);
 
